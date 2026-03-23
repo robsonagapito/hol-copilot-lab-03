@@ -1,0 +1,32 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`HomePage > matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="app"
+  >
+    <div
+      data-testid="header"
+    >
+      Header
+    </div>
+    <main
+      class="main-content"
+    >
+      <p />
+      <h2>
+        Welcome to the The Daily Harvest!
+      </h2>
+      <p />
+      <p>
+        Check out our products page for some great deals.
+      </p>
+    </main>
+    <div
+      data-testid="footer"
+    >
+      Footer
+    </div>
+  </div>
+</DocumentFragment>
+`;
